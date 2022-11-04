@@ -4,7 +4,7 @@ A windows service that sends computer to sleep on an external REST request
 Send a computer running Windows to sleep remotely
 ## How to cook
 Make sure you have python installed for all the users. The application also uses
-Nssm tool to register the python application as a windows service. Plese download the tool at https://nssm.cc/download. Folow te steps below to install the service:
+Nssm tool to register the python application as a windows service. Please download the tool at https://nssm.cc/download. Follow the steps below to install the service:
 
 1. Open `install_the_service.bat` for editing and amend `path` - the path to the source code.
 3. Open nssm\win64 folder and launch console as an administrator there
