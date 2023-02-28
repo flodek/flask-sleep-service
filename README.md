@@ -1,6 +1,6 @@
 # flask-sleep-service
 A windows service that sends computer to sleep on an external REST request
-## Intetn
+## Intent
 Send a computer running Windows to sleep remotely
 ## How to cook
 Make sure you have python installed for all the users. The application also uses
